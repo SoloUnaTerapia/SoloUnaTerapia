@@ -1,7 +1,7 @@
-Non sono un vuoto a perdere\n
-Né uno sporco impossibile
-Né un marchio registrato
-Né un prodotto di mercato
+Non sono un vuoto a perdere<br>
+Né uno sporco impossibile<br>
+Né un marchio registrato<br>
+Né un prodotto di mercato<br>
 Non sono un punto fermo
 Né una realtà di base
 Né un dato di fatto
